@@ -3,5 +3,5 @@
 ## TODO
 
 - Clone project
-- Open the students.md file and add your name and the city you live in
+- Open the CONTRIBUTORS.md file and add your name
 - Add, Commit, Push
